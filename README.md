@@ -3,7 +3,11 @@
 Node //https://nodejs.org/en/download/package-manager/#windows
 React
 ReactNative
+MongoDB https://www.mongodb.com/cloud/atlas // https://www.mongodb.com/download-center/compass
 Expo
+Express
+NodeMon
+Axios
 
 PowerShell
 
@@ -32,7 +36,41 @@ Dracula
 Material icon theme
 }
 
+Insomnia https://insomnia.rest
+
+Mongo
+{
+
+}
 
 Configurando Terminal: https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
 
 Configurando o VSCODE: https://www.youtube.com/watch?v=c7P03kkrEG8
+
+
+
+BackEnd (API-RestFull)
+.Regras de NEgocio;
+.Conexao Banco de Dados;
+.Envio de e-mail
+.Comunicacao com webservices;
+.Autenticacao do usuario;
+.Criptografia e seguranca
+
+//Metodos HTTP: GET, POST, PUT, DELETE 
+//Tipos de Parametros:
+//Query Params: request.query (Filtros, ordenacao, paginacao, ...)
+//Route Params: request.params (Identificar um recurso na alteracao ou remocao)
+//Body: request.body (Dados para criacao ou alteracao de um registro)
+//MongoDB (Nao Relacional)
+
+Comandos
+yarn init -y
+code .
+ctrl aspas
+yarn add express
+node index.js
+yarn add nodemon -D
+yarn nodemon index.js
+Yarn add mongoose
+yarn add Axios
