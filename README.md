@@ -74,3 +74,17 @@ yarn add nodemon -D
 yarn nodemon index.js
 Yarn add mongoose
 yarn add Axios
+yarn add Cors
+
+FRONT END REACT
+// Componente: Bloco isolado de HTML, CSS e JS, o qual nao interfere no resdtante da aplicacao.
+// Propriedade: Informacoes que um componente PAI passa para o componente FILHO
+// Estado: Informacoes mantidas pelo componente (Lembrar: imutabilidade)
+
+comandos
+yarn create react-app web
+yarn start
+yarn add axios
+
+
+FONT roboto https://fonts.google.com/specimen/Roboto
