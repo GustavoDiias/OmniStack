@@ -23,24 +23,23 @@
 * Fonte (roboto)
 
 # BackEnd (API-RestFull)
-*Regras de NEgocio;
-*Conexao Banco de Dados;
-*Envio de e-mail
-*Comunicacao com webservices;
-*Autenticacao do usuario;
-*Criptografia e seguranca
-
-*Metodos HTTP: GET, POST, PUT, DELETE 
+* Regras de NEgocio;
+* Conexao Banco de Dados;
+* Envio de e-mail
+* Comunicacao com webservices;
+* Autenticacao do usuario;
+* Criptografia e seguranca
+* Metodos HTTP: GET, POST, PUT, DELETE 
 
 ### Tipos de Parametros:
-*Query Params: request.query (Filtros, ordenacao, paginacao, ...)
-*Route Params: request.params (Identificar um recurso na alteracao ou remocao)
-*Body: request.body (Dados para criacao ou alteracao de um registro)
+* Query Params: request.query (Filtros, ordenacao, paginacao, ...)
+* Route Params: request.params (Identificar um recurso na alteracao ou remocao)
+* Body: request.body (Dados para criacao ou alteracao de um registro)
 
 # FRONT END (REACT)
-// Componente: Bloco isolado de HTML, CSS e JS, o qual nao interfere no resdtante da aplicacao.
-// Propriedade: Informacoes que um componente PAI passa para o componente FILHO
-// Estado: Informacoes mantidas pelo componente (Lembrar: imutabilidade)
+* Componente: Bloco isolado de HTML, CSS e JS, o qual nao interfere no resdtante da aplicacao.
+* Propriedade: Informacoes que um componente PAI passa para o componente FILHO
+* Estado: Informacoes mantidas pelo componente (Lembrar: imutabilidade)
 
 ## Comandos
 * Node: choco install nodejs-lts;  node -v; npm -v
