@@ -56,8 +56,8 @@
 * Criando projeto REACT: yarn create react-app "NOME"; yarn start
 
 ### Tutoriais
-* Configurando Terminal: https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
-* Configurando o VSCODE: https://www.youtube.com/watch?v=c7P03kkrEG8
+* [Configurando Terminal] (https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
+* [Configurando o VSCODE] (https://www.youtube.com/watch?v=c7P03kkrEG8)
 
 ## Autor
 * [Gustavo Henrique Dias Silva](https://github.com/GustavoDiias)
