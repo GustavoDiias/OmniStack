@@ -1,7 +1,7 @@
 # OmniStack
 
 * É um site desenvolvido em node e react usando de dados o mongo. Este site é um cadastro usando seu usuário do github para cadastrar você em uma comunidade de devs onde será usado geolocalização para informar em um raio de 10KM os devs cadastrados nessa area e sua area de tecnologia.
-* Este site usa uma propria API de cadastro junto com a API do Github para o acesso aos dados do usuário.
+* Este site usa uma própria API de cadastro junto com a API do github para o acesso aos dados do usuário.
 * Para o cadastro apenas deve informar o nome de usuário do Git, tecnologia que você utiliza e sua Latitude e Longitude.
 
 ## Linguagens
@@ -63,7 +63,7 @@
 ## Autor
 * [Gustavo Henrique Dias Silva](https://github.com/GustavoDiias)
 
-### Agredecimento
+## Agredecimento
 * [Rocketseat](https://github.com/Rocketseat)
 
 
